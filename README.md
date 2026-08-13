@@ -103,8 +103,3 @@ A natural next iteration could connect each poster card to metadata and a detail
 ## Author
 
 **Mehdi FERHAT**
-
-## References
-
-[1]: https://github.com/flowasme/Fuji-Po "Fuji-Po source repository"
-[2]: https://flowasme.github.io/Fuji-Po/ "Fuji-Po live site"
